@@ -1,0 +1,57 @@
+.gont {
+  font-size: xx-large;
+}
+/* CSS styles for the login page */
+
+body {
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
+}
+
+.body {
+  margin: 0 auto;
+  max-width: 400px;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.login {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.login p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.forget {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.forget p {
+  font-size: 12px;
+  color: #666;
+}
